@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ankrysm
+- 👀 I’m interested in microcontroller such as ESP32
+- 🌱 I’m currently learning to live
